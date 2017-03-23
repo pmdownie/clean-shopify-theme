@@ -1,0 +1,4 @@
+development:
+  password: ADD_SHOPIFY_PRIVATE_APP_PASSWORD
+  theme_id: "ADD_SHOPIFY_THEME_ID"
+  store: poppy-lissiman-site-v3.myshopify.com
